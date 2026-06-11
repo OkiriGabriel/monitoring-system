@@ -1,6 +1,6 @@
-# FEZ Monitoring
+#  Monitoring
 
-A comprehensive monitoring solution for FEZ Delivery services using Prometheus, Grafana, and Blackbox Exporter. This repository contains monitoring configurations for tracking API availability, performance, and system metrics.
+A comprehensive monitoring solution for  Delivery services using Prometheus, Grafana, and Blackbox Exporter. This repository contains monitoring configurations for tracking API availability, performance, and system metrics.
 
 ## 📋 Table of Contents
 
@@ -48,7 +48,7 @@ All services run in Docker containers and communicate via a dedicated Docker net
 
 This repository contains two monitoring configurations:
 
-- **`fez-grafana-monitoring/`**: General FEZ monitoring setup
+- **`-grafana-monitoring/`**: General  monitoring setup
 - **`riders-api-monitoring/`**: Dedicated Riders API monitoring
 
 ### 2. Start the Monitoring Stack
@@ -56,7 +56,7 @@ This repository contains two monitoring configurations:
 Navigate to your desired monitoring directory:
 
 ```bash
-cd fez-grafana-monitoring
+cd -grafana-monitoring
 # or
 cd riders-api-monitoring
 ```
@@ -201,8 +201,8 @@ See `prometheus-queries.txt` for more query examples.
 ## 📁 Project Structure
 
 ```
-fez-monitoring/
-├── fez-grafana-monitoring/
+-monitoring/
+├── -grafana-monitoring/
 │   ├── alerts.yml              # Prometheus alert rules
 │   ├── blackbox.yml            # Blackbox exporter configuration
 │   ├── docker-compose.yml      # Docker Compose configuration
@@ -269,7 +269,7 @@ docker-compose up -d
 
 ## 📝 License
 
-This project is for internal use by FEZ Delivery.
+This project is for internal use by  Delivery.
 
 ## 🤝 Support
 
