@@ -1,8 +1,10 @@
 #  Monitoring
 
-![Monitoring](https://img.shields.io/badge/grafana)
-![License](https://img.shields.io/badge/License-Proprietary-red)
-![Status](https://img.shields.io/badge/Status-Active-success)
+![Docker](https://img.shields.io/badge/Docker-Compose-2496ED?logo=docker&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-Monitoring-E6522C?logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-Dashboard-F46800?logo=grafana&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-green)
+![Version](https://img.shields.io/badge/Version-v1.0.0-blue)
 
 A comprehensive monitoring solution for  Delivery services using Prometheus, Grafana, and Blackbox Exporter. This repository contains monitoring configurations for tracking API availability, performance, and system metrics.
 
