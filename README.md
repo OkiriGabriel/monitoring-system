@@ -1,5 +1,9 @@
 #  Monitoring
 
+![Monitoring](https://img.shields.io/badge/grafana)
+![License](https://img.shields.io/badge/License-Proprietary-red)
+![Status](https://img.shields.io/badge/Status-Active-success)
+
 A comprehensive monitoring solution for  Delivery services using Prometheus, Grafana, and Blackbox Exporter. This repository contains monitoring configurations for tracking API availability, performance, and system metrics.
 
 ## 📋 Table of Contents
